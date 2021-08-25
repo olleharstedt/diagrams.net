@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-25T11:35:42.057Z" agent="5.0 (X11)" etag="zrdBsdpFcPFlSHgmMCgs" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-25T15:51:37.008Z" agent="5.0 (X11)" etag="23k9Nz8ejGpxDVcsEY2R" version="14.9.9" type="github">
   <diagram id="CAZZak_FirUkJ6t7yPCO" name="Page-1">
     <mxGraphModel dx="1420" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQ06bYMubK2WD7voXs-C-44" value="BROWSER" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-220" width="300" height="100" as="geometry" />
+          <mxGeometry x="380" y="-220" width="450" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZQ06bYMubK2WD7voXs-C-5" value="JavaScript" style="whiteSpace=wrap;html=1;" parent="ZQ06bYMubK2WD7voXs-C-44" vertex="1">
           <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
@@ -76,19 +76,22 @@
         <mxCell id="ZQ06bYMubK2WD7voXs-C-49" value="&lt;div align=&quot;left&quot;&gt;Cache,&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;browser storage,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;cookies&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZQ06bYMubK2WD7voXs-C-44" vertex="1">
           <mxGeometry x="20" y="40" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="La8FpLL16w0VXtoSguov-1" value="Components" style="whiteSpace=wrap;html=1;" vertex="1" parent="ZQ06bYMubK2WD7voXs-C-44">
+          <mxGeometry x="310" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="ZQ06bYMubK2WD7voXs-C-46" value="Files" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="530" y="320" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Rg0PUGwHE4vJt5AJLw-h-1" value="IO wrapper" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sVkk13WtHpjU11I0KpUk-1" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="sVkk13WtHpjU11I0KpUk-1" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="610" y="320" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sVkk13WtHpjU11I0KpUk-2" value="Yii" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="sVkk13WtHpjU11I0KpUk-2" value="Yii" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="860" y="-220" width="30" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="sVkk13WtHpjU11I0KpUk-3" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="sVkk13WtHpjU11I0KpUk-3" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="910" y="-220" width="30" height="270" as="geometry" />
         </mxCell>
       </root>
