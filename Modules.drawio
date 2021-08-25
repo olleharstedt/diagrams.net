@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2021-08-25T13:23:42.042Z" agent="5.0 (X11)" etag="LluAaawdpamggYVdFMa5" version="14.9.9" type="github">
+  <diagram id="CAZZak_FirUkJ6t7yPCO" name="Page-1">
+    <mxGraphModel dx="1420" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qvu00oB0dJxYOXIbcdhG-1" value="User module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=none;fontStyle=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-50" width="310" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-1" value="SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="360" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-18" value="BUSINESS LOGIC" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="270" y="100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-21" value="CONTROLLER" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="130" y="100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-27" value="VIEW" style="swimlane;startSize=0;swimlaneFillColor=none;swimlaneLine=1;rounded=0;shadow=0;sketch=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="130" y="-20" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-30" value="Local machine" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-31" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="-320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-32" value="Participant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="-320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-33" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="215" y="-320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-36" value="Http Request" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-100" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-38" value="MODEL" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;labelBorderColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="220" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-44" value="BROWSER" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="530" y="-220" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-5" value="JavaScript" style="whiteSpace=wrap;html=1;" parent="ZQ06bYMubK2WD7voXs-C-44" vertex="1">
+          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-49" value="&lt;div align=&quot;left&quot;&gt;Cache,&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;browser storage,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;cookies&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZQ06bYMubK2WD7voXs-C-44" vertex="1">
+          <mxGeometry x="20" y="40" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ06bYMubK2WD7voXs-C-46" value="Files" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="440" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sVkk13WtHpjU11I0KpUk-1" value="Cache" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="520" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sVkk13WtHpjU11I0KpUk-2" value="Yii" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="860" y="-220" width="30" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="sVkk13WtHpjU11I0KpUk-3" value="Vue" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="910" y="-220" width="30" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Qvu00oB0dJxYOXIbcdhG-11" value="Survey settings module" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fillColor=none;fontStyle=2;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-50" width="310" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Qvu00oB0dJxYOXIbcdhG-12" value="BUSINESS LOGIC" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="595" y="100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qvu00oB0dJxYOXIbcdhG-13" value="CONTROLLER" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="455" y="100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qvu00oB0dJxYOXIbcdhG-14" value="VIEW" style="swimlane;startSize=0;swimlaneFillColor=none;swimlaneLine=1;rounded=0;shadow=0;sketch=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-20" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qvu00oB0dJxYOXIbcdhG-15" value="MODEL" style="swimlane;startSize=0;labelBackgroundColor=#ffffff;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="220" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Qvu00oB0dJxYOXIbcdhG-16" value="More modules..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="750" y="80" width="90" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
