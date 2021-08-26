@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T17:00:17.279Z" agent="5.0 (X11)" etag="Wa2mqOzBIB37Nq740aZH" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T17:01:11.011Z" agent="5.0 (X11)" etag="joxhaN6hu16d7tNWbJlu" version="14.9.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2087" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,8 +158,8 @@
         <mxCell id="9WyxW3DMqvxe6kb_ES5O-51" value="&lt;div&gt;Redirect&lt;/div&gt;&lt;div&gt;url&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1190" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9WyxW3DMqvxe6kb_ES5O-53" value="&lt;ul&gt;&lt;li&gt;Email&lt;/li&gt;&lt;li&gt;Front page&lt;/li&gt;&lt;li&gt;Newspaper&lt;/li&gt;&lt;li&gt;Home page&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-5" y="320" width="110" height="80" as="geometry" />
+        <mxCell id="9WyxW3DMqvxe6kb_ES5O-53" value="&lt;ul&gt;&lt;li&gt;Email&lt;/li&gt;&lt;li&gt;Front page&lt;/li&gt;&lt;li&gt;Newspaper&lt;/li&gt;&lt;li&gt;Home page&lt;/li&gt;&lt;li&gt;Panel integration&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-17.5" y="320" width="135" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
