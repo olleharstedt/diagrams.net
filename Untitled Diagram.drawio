@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T10:02:22.734Z" agent="5.0 (X11)" version="15.0.1" etag="kd9Pk27evskChH4V_-EA" type="github"><diagram id="XQEstLa2-WwwkH6FFpHb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-25T10:06:27.320Z" agent="5.0 (X11)" etag="tQjX_pAG1zje3BXKtdUn" version="15.0.1" type="github">
+  <diagram id="XQEstLa2-WwwkH6FFpHb" name="Page-1">
+    <mxGraphModel dx="1260" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w64wzA_e9NU8IU_Zn9Cp-1" value="nBill event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w64wzA_e9NU8IU_Zn9Cp-2" value="c1account.limeservice_action_queue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w64wzA_e9NU8IU_Zn9Cp-3" value="&lt;div&gt;nBill event folder&lt;/div&gt;&lt;div&gt;Every subfolder named after the event&lt;/div&gt;&lt;div&gt;Each file in event folder is executed at event&lt;/div&gt;&lt;div&gt;Example: income_created&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
